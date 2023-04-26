@@ -30,7 +30,7 @@
 
 + img5-green.mp4: `10 20 -20 -20`
 
-+ img7-green.mp4: `10 10 -10 -10`
++ img7-green.mp4: `-20 -20 -30 -40`
 
 + img8-green.mp4: `-5 15 0 0`
 
